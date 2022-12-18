@@ -1,0 +1,5 @@
+C:\Users\Hp Victus\Desktop\C# TASK\Exam1\Task44\obj\Debug\net6.0\Task44.csproj.AssemblyReference.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Exam1\Task44\obj\Debug\net6.0\Task44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Victus\Desktop\C# TASK\Exam1\Task44\obj\Debug\net6.0\Task44.AssemblyInfoInputs.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Exam1\Task44\obj\Debug\net6.0\Task44.AssemblyInfo.cs
+C:\Users\Hp Victus\Desktop\C# TASK\Exam1\Task44\obj\Debug\net6.0\Task44.csproj.CoreCompileInputs.cache

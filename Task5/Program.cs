@@ -1,0 +1,10 @@
+﻿Factarial Obekt = new Factarial();
+int a,b;
+a= Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine(Obekt.Factorial(a));
+a= Convert.ToInt32(Console.ReadLine());
+b= Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine(Obekt.Multiple(a,b));
+a= Convert.ToInt32(Console.ReadLine());
+b= Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine(Obekt.Division(a,b));
